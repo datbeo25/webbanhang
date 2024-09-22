@@ -1,0 +1,75 @@
+﻿@model IEnumerable<QLBanhang.Models.SanPham>
+
+@using QLBanhang.Models
+@using System.Linq
+@{
+    ViewBag.Title = "Danh sách các sản phẩm";
+}
+
+<h2>Danh sách các sản phẩm</h2>
+@using (Html.BeginForm())
+{
+    <p> </p>
+    <div class="form-group form-inline">
+        Tìm sản phẩm: @Html.TextBox("SearchString", "", new { @class = "form-control" })<br />
+        <input type="submit" class="btn btn-primary btn-sm" value="Search" />
+    </div><br>
+}
+
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-primary btn-lg">Thêm sản phẩm</a>
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            Tên sản phẩm
+        </th>
+        <th>
+            Đơn vị tính
+        </th>
+        <th>
+            Đơn giá
+        </th>
+        <th>
+            Loại sản phẩm
+        </th>
+        <th>
+            Hình
+        </th>
+
+        <th>
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenSP)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Donvitinh)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Dongia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LoaiSP.TenLoaiSP)
+            </td>
+            <td>
+                @Html.Image("../" + item.HinhSP, "alt", "100")
+            </td>
+
+            <td>
+                <a href="@Url.Action("Edit", new { id = item.MaSP })" class="btn btn-primary btn-sm">Sửa</a> |
+                <a href="@Url.Action("Delete", new { id = item.MaSP })" class="btn btn-danger btn-sm">Xóa</a>
+            </td>
+
+
+
+        </tr>
+    }
+
+</table>

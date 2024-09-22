@@ -1,0 +1,28 @@
+﻿@model IEnumerable<QLBanhang.Models.SanPham>
+
+@using QLBanhang.Models
+@using System.Linq
+@{
+    ViewBag.Title = "Home Page";
+}
+@using (Html.BeginForm())
+{
+    <p> </p>
+    <div class="form-group form-inline">
+        Tìm sản phẩm: @Html.TextBox("SearchString", "", new { @class = "form-control" })<br />
+        <input type="submit" class="btn btn-primary btn-sm" value="Search" />
+    </div>
+}
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-sm-3" style="background-color: lavender; margin-top: 5px;text-align:center;">
+            <h3> @Html.DisplayFor(modelItem => item.TenSP) </h3>
+            @Html.Image("../" + item.HinhSP, "alt", "100")<br />
+            @Html.DisplayFor(modelItem => item.Dongia)<br />
+            <a class="btn btn-info btn-sm" href="@Url.Action("Details", "Sanphams", new {id = item.MaSP})">
+                Xem chi tiết
+            </a>
+        </div>
+    }
+</div>

@@ -1,0 +1,682 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\QLBanhang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\sanphams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|d:\\c#\\qlbanhang\\qlbanhang\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\sanphams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\sanphams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\hoadons\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\hoadons\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\hoadons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\hoadons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\hoadons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\hoadons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\loaisps\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\loaisps\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\models\\qlbanhangef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\models\\qlbanhangef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\sanphams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\sanphams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\controllers\\cthdscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\controllers\\cthdscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\controllers\\loaispscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\controllers\\loaispscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\models\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\models\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\khachhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\khachhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\cthds\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\cthds\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\loaisps\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\loaisps\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\loaisps\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\loaisps\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\khachhangs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\khachhangs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\khachhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\khachhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\khachhangs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\khachhangs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\khachhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\khachhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\hoadons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\hoadons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\hoadons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\hoadons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|D:\\C#\\QLBanhang\\qlbanhang\\views\\nhanviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D29E6B-47B9-4DE7-9825-9D9A3EC6A571}|QLBanhang\\QLBanhang.csproj|solutionrelative:qlbanhang\\views\\nhanviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\HoaDons\\Details.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\HoaDons\\Details.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\HoaDons\\Details.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\HoaDons\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:43:14.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GiohangController.cs",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Controllers\\GiohangController.cs",
+              "RelativeDocumentMoniker": "QLBanhang\\Controllers\\GiohangController.cs",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Controllers\\GiohangController.cs",
+              "RelativeToolTip": "QLBanhang\\Controllers\\GiohangController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:44:41.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\SanPhams\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\SanPhams\\Index.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\SanPhams\\Index.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\SanPhams\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T17:40:50.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\Giohang\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\Giohang\\Index.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\Giohang\\Index.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\Giohang\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T18:25:35.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T12:55:13.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Models\\ViewModel.cs",
+              "RelativeDocumentMoniker": "QLBanhang\\Models\\ViewModel.cs",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Models\\ViewModel.cs",
+              "RelativeToolTip": "QLBanhang\\Models\\ViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T21:49:38.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "QLBanhang\\Models\\CartItem.cs",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Models\\CartItem.cs",
+              "RelativeToolTip": "QLBanhang\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T20:23:00.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QLBanhang\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QLBanhang\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:55:01.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\HoaDons\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\HoaDons\\Edit.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\HoaDons\\Edit.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\HoaDons\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T18:57:49.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\HoaDons\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\HoaDons\\Index.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\HoaDons\\Index.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\HoaDons\\Index.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAEBVwAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T18:14:14.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\SanPhams\\Details.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\SanPhams\\Details.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\SanPhams\\Details.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\SanPhams\\Details.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAEBVwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T18:07:21.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T17:40:02.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\LoaiSPs\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\LoaiSPs\\Index.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\LoaiSPs\\Index.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\LoaiSPs\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T17:41:31.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HoaDonsController.cs",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Controllers\\HoaDonsController.cs",
+              "RelativeDocumentMoniker": "QLBanhang\\Controllers\\HoaDonsController.cs",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Controllers\\HoaDonsController.cs",
+              "RelativeToolTip": "QLBanhang\\Controllers\\HoaDonsController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAwwHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:05:52.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "QLBanhang\\Controllers\\SanPhamsController.cs",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Controllers\\SanPhamsController.cs",
+              "RelativeToolTip": "QLBanhang\\Controllers\\SanPhamsController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwIkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:53:23.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QLBanhangEF.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Models\\QLBanhangEF.edmx",
+              "RelativeDocumentMoniker": "QLBanhang\\Models\\QLBanhangEF.edmx",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Models\\QLBanhangEF.edmx [Diagram1]",
+              "RelativeToolTip": "QLBanhang\\Models\\QLBanhangEF.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-05T08:13:17.473Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwBwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T17:40:31.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\SanPhams\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\SanPhams\\Edit.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\SanPhams\\Edit.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\SanPhams\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T17:54:57.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\Nhanviens\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\Nhanviens\\Edit.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\Nhanviens\\Edit.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\Nhanviens\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T18:58:08.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NhanviensController.cs",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Controllers\\NhanviensController.cs",
+              "RelativeDocumentMoniker": "QLBanhang\\Controllers\\NhanviensController.cs",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Controllers\\NhanviensController.cs",
+              "RelativeToolTip": "QLBanhang\\Controllers\\NhanviensController.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAADwv3EAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:47:19.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CTHDsController.cs",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Controllers\\CTHDsController.cs",
+              "RelativeDocumentMoniker": "QLBanhang\\Controllers\\CTHDsController.cs",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Controllers\\CTHDsController.cs",
+              "RelativeToolTip": "QLBanhang\\Controllers\\CTHDsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:01:44.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KhachHangsController.cs",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Controllers\\KhachHangsController.cs",
+              "RelativeDocumentMoniker": "QLBanhang\\Controllers\\KhachHangsController.cs",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Controllers\\KhachHangsController.cs",
+              "RelativeToolTip": "QLBanhang\\Controllers\\KhachHangsController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAQwHIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:57:20.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoaiSPsController.cs",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Controllers\\LoaiSPsController.cs",
+              "RelativeDocumentMoniker": "QLBanhang\\Controllers\\LoaiSPsController.cs",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Controllers\\LoaiSPsController.cs",
+              "RelativeToolTip": "QLBanhang\\Controllers\\LoaiSPsController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAADwv2UAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:13:41.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "QLBanhang\\Controllers\\MenuController.cs",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "QLBanhang\\Controllers\\MenuController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:05:51.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ImageHelper.cs",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Models\\ImageHelper.cs",
+              "RelativeDocumentMoniker": "QLBanhang\\Models\\ImageHelper.cs",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Models\\ImageHelper.cs",
+              "RelativeToolTip": "QLBanhang\\Models\\ImageHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T23:23:35.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\Nhanviens\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\Nhanviens\\Index.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\Nhanviens\\Index.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\Nhanviens\\Index.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAEBlwAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T17:44:42.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\KhachHangs\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\KhachHangs\\Index.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\KhachHangs\\Index.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\KhachHangs\\Index.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAEBlwCAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T17:48:21.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T09:10:29.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\CTHDs\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\CTHDs\\Index.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\CTHDs\\Index.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\CTHDs\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:44:17.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\SanPhams\\Create.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\SanPhams\\Create.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\SanPhams\\Create.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\SanPhams\\Create.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAEBVwD8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T17:51:57.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\LoaiSPs\\Details.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\LoaiSPs\\Details.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\LoaiSPs\\Details.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\LoaiSPs\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T21:44:14.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\LoaiSPs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\LoaiSPs\\Edit.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\LoaiSPs\\Edit.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\LoaiSPs\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T21:44:11.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\KhachHangs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\KhachHangs\\Edit.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\KhachHangs\\Edit.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\KhachHangs\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:43:18.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\KhachHangs\\Details.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\KhachHangs\\Details.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\KhachHangs\\Details.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\KhachHangs\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:43:17.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\KhachHangs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\KhachHangs\\Delete.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\KhachHangs\\Delete.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\KhachHangs\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:43:16.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\KhachHangs\\Create.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\KhachHangs\\Create.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\KhachHangs\\Create.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\KhachHangs\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:22:35.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\HoaDons\\Delete.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\HoaDons\\Delete.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\HoaDons\\Delete.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\HoaDons\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:43:13.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\HoaDons\\Create.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\HoaDons\\Create.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\HoaDons\\Create.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\HoaDons\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T19:43:12.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\Nhanviens\\Details.cshtml",
+              "RelativeDocumentMoniker": "QLBanhang\\Views\\Nhanviens\\Details.cshtml",
+              "ToolTip": "D:\\C#\\QLBanhang\\QLBanhang\\Views\\Nhanviens\\Details.cshtml",
+              "RelativeToolTip": "QLBanhang\\Views\\Nhanviens\\Details.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T18:07:44.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

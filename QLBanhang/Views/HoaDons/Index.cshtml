@@ -1,0 +1,73 @@
+﻿@model IEnumerable<QLBanhang.Models.HoaDon>
+
+@{
+    ViewBag.Title = "Hóa đơn bán hàng";
+}
+
+<h2>Danh sách hóa đơn</h2>
+@using (Html.BeginForm())
+{
+    <p> </p>
+    <div class="form-group form-inline">
+        Tìm hóa đơn: @Html.TextBox("SearchString", "", new { @class = "form-control" })<br />
+        <input type="submit" class="btn btn-primary btn-sm" value="Search" />
+    </div>
+    <br>
+}
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-success btn-lg">Thêm hóa đơn</a>
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            Mã HĐ
+        </th>
+        <th>
+            Ngày lập HĐ
+        </th>
+        <th>
+            Ngày giao hàng
+        </th>
+        <th>
+            Tên khách hàng
+        </th>
+        <th>
+            Nhân viên bán hàng
+        </th>
+        <th>
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <a href="@Url.Action("Index", "CTHDs", new { MaHD = item.MaHD })" class="btn btn-primary btn-sm">
+                    @Html.DisplayFor(modelItem => item.MaHD)
+                </a>
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayLapHD)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayGiaoHang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KhachHang.TenKH)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nhanvien.HoNV)
+                @Html.DisplayFor(modelItem => item.Nhanvien.Ten)
+            </td>
+            <td>
+                @Html.ActionLink("Sửa", "Edit", new { id = item.MaHD }, new { @class = "btn btn-primary btn-sm" }) |
+                @Html.ActionLink("Xem chi tiết", "Details", new { id = item.MaHD }, new { @class = "btn btn-info btn-sm" }) |
+                @Html.ActionLink("Xóa", "Delete", new { id = item.MaHD }, new { @class = "btn btn-danger btn-sm" })
+            </td>
+
+        </tr>
+    }
+
+</table>

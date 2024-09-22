@@ -1,0 +1,68 @@
+﻿@model IEnumerable<QLBanhang.Models.KhachHang>
+
+@{
+    ViewBag.Title = "Danh sách Khách Hàng";
+}
+
+<h2>Danh sách Khách Hàng</h2>
+@using (Html.BeginForm())
+{
+    <p> </p>
+    <div class="form-group form-inline">
+        Tìm khách hàng: @Html.TextBox("SearchString", "", new { @class = "form-control" })<br />
+        <input type="submit" class="btn btn-primary btn-sm" value="Search" />
+    </div>
+    <br>
+}
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-success btn-lg">Thêm Khách Hàng</a>
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            Tên khách hàng 
+        </th>
+        <th>
+            Địa chỉ
+        </th>
+        <th>
+            Số điện thoại
+        </th>
+        <th>
+            Facebook
+        </th>
+        <th>
+            Email
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenKH)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiaChi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DienThoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fax)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.MaKH }, new { @class = "btn btn-primary btn-sm" }) |
+                @Html.ActionLink("Details", "Details", new { id = item.MaKH }, new { @class = "btn btn-info btn-sm" }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.MaKH }, new { @class = "btn btn-danger btn-sm" })
+            </td>
+
+        </tr>
+    }
+
+</table>
